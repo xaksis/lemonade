@@ -13,6 +13,7 @@
 		BA44FB1B1A185EB9002B11F3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA44FB1A1A185EB9002B11F3 /* Images.xcassets */; };
 		BA44FB1E1A185EB9002B11F3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA44FB1C1A185EB9002B11F3 /* LaunchScreen.xib */; };
 		BA44FB2A1A185EB9002B11F3 /* LemonadeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA44FB291A185EB9002B11F3 /* LemonadeTests.swift */; };
+		BA44FB341A18DA21002B11F3 /* LemonadeStand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA44FB331A18DA21002B11F3 /* LemonadeStand.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BA44FB231A185EB9002B11F3 /* LemonadeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LemonadeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA44FB281A185EB9002B11F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA44FB291A185EB9002B11F3 /* LemonadeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeTests.swift; sourceTree = "<group>"; };
+		BA44FB331A18DA21002B11F3 /* LemonadeStand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LemonadeStand.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				BA44FB131A185EB9002B11F3 /* AppDelegate.swift */,
 				BA44FB151A185EB9002B11F3 /* ViewController.swift */,
 				BA44FB171A185EB9002B11F3 /* Main.storyboard */,
+				BA44FB331A18DA21002B11F3 /* LemonadeStand.swift */,
 				BA44FB1A1A185EB9002B11F3 /* Images.xcassets */,
 				BA44FB1C1A185EB9002B11F3 /* LaunchScreen.xib */,
 				BA44FB111A185EB9002B11F3 /* Supporting Files */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA44FB161A185EB9002B11F3 /* ViewController.swift in Sources */,
+				BA44FB341A18DA21002B11F3 /* LemonadeStand.swift in Sources */,
 				BA44FB141A185EB9002B11F3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
